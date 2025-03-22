@@ -1,0 +1,22 @@
+# NLP và xử lý văn bản
+spacy==3.7.2  # Tương thích với en-core-web-sm 3.7.1
+transformers==4.35.2
+sentence-transformers==2.2.2
+
+# Công cụ tìm kiếm vector
+faiss-cpu==1.7.4
+
+# Cơ sở dữ liệu đồ thị Neo4j
+neo4j==5.14.0
+
+# Công cụ tìm kiếm Elasticsearch
+elasticsearch==8.11.0
+
+# LangChain cho tích hợp LLM
+langchain==0.0.348
+
+# Thư viện bổ trợ
+numpy==1.26.2
+torch==2.1.0
+typing-extensions==4.8.0  # Tương thích với fastapi 0.114.1
+protobuf==4.25.3  # Tương thích với tensorflow-intel 2.15.0

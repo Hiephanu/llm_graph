@@ -1,0 +1,8 @@
+Hiep is a student at Hanoi University, majoring in Information Technology in class 5C21. Currently, Hiep focuses on backend software development using Java and Spring Boot. Additionally, he has experience working with database systems like MySQL and MongoDB, as well as using Kafka for event-driven data processing.Besides studying, Hiep is passionate about distributed systems, operating system development, and optimizing system performance. In his free time, he explores Docker, Kubernetes, and DevOps technologies to enhance application deployment efficiency.
+
+
+
+
+
+
+
