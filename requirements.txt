@@ -20,3 +20,4 @@ numpy==1.26.2
 torch==2.1.0
 typing-extensions==4.8.0  # Tương thích với fastapi 0.114.1
 protobuf==4.25.3  # Tương thích với tensorflow-intel 2.15.0
+PyPDF2
