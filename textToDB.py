@@ -51,7 +51,7 @@ def save_to_neo4j(tx, entity1, label1, relation, entity2, label2):
     tx.run(query, entity1=entity1, label1=label1, relation=relation, entity2=entity2, label2=label2)
 
 # Văn bản đầu vào
-with open("dataset/datasource.txt", "r", encoding="utf-8") as file:
+with open("dataset/datasource/PART_II.txt", "r", encoding="utf-8") as file:
     text = file.read().strip()
 
 # Tách văn bản thành từng câu (chunks)

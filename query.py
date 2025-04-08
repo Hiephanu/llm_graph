@@ -144,9 +144,36 @@ def handle_query(query_text):
     global_answer = generate_global_answer(query_text, summary)
     return global_answer
 
-# Ví dụ sử dụng
-query = "Talk about something about Hiep? Hiep can code in languages specific?"
-answer = handle_query(query)
+# Function to read from question.txt and save answers to answer.txt
+def process_questions():
+    questions_file_path = 'dataset/question/question.txt'
+    answers_file_path = 'dataset/answer/answer.txt'
+    
+    try:
+        with open(questions_file_path, 'r', encoding='utf-8') as questions_file:
+            questions = questions_file.readlines()
+
+        answers = []
+        
+        for i, question in enumerate(questions, start=1):
+            question = question.strip()  # Remove any extra whitespace/newlines
+            if question:
+                print(f"Processing question {i}: {question}")
+                answer = handle_query(question)
+                answers.append(f"{i}. {answer}")
+                
+        # Write answers to answer.txt with numbering
+        with open(answers_file_path, 'w', encoding='utf-8') as answers_file:
+            for answer in answers:
+                answers_file.write(f"{answer}\n")
+                
+        print(f"Answers saved to {answers_file_path}")
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# Run the process for reading questions and saving answers
+process_questions()
 
 # Đóng kết nối Neo4j
 driver.close()

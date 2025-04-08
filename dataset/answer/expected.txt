@@ -1,3 +1,50 @@
-1. New York City is the place where John Smith lives.
-2. The Eiffel Tower is in Paris.
-3. Python is a popular programming language.
+1. The territorial sea is considered part of the sovereign territory of the coastal State, subject to certain navigational rights such as innocent passage.
+2. A coastal State exercises full sovereignty over its territorial sea, including the air space above it, the seabed, and subsoil.
+3. Yes, sovereignty extends to the air space above the territorial sea.
+4. A State may claim up to 12 nautical miles from the baseline.
+5. It is measured from the baselines, usually the low-water line along the coast.
+6. The normal baseline is the low-water line along the coast as marked on large-scale charts.
+7. Yes, in specific geographical conditions like a deeply indented coast or fringing islands.
+8. When the coastline is deeply indented or there is a fringe of islands along the coast.
+9. Baselines may be drawn around the outermost points of the delta’s features.
+10. They must not depart appreciably from the general direction of the coast and should not be used to cut off the territorial sea of another State.
+11. A naturally formed area of land above water at low tide and submerged at high tide.
+12. Only if it is within the territorial sea of a mainland or island.
+13. The baseline is drawn seaward from the reef’s outer edge.
+14. A straight line between the low-water lines of the river's banks at the mouth.
+15. A closing line is drawn if the bay meets the semi-circle test and is no more than 24 nautical miles across.
+16. It must be well-marked and have a width not exceeding 24 nautical miles at the mouth.
+17. 24 nautical miles.
+18. Bays with historical significance and long-standing usage may be treated as internal waters.
+19. No, artificial installations cannot be used to determine baselines.
+20. Roadsteads used for loading and unloading and normally used by ships are considered part of the territorial sea.
+21. Waters on the landward side of the baseline over which the State exercises full sovereignty.
+22. Yes, they are fully under the jurisdiction of the coastal State.
+23. No, unless there is customary usage or international agreement.
+24. These enclosed waters become internal waters, but rights of innocent passage may still apply based on prior usage.
+25. The right of ships of all States to navigate through the territorial sea of another State so long as it is not prejudicial to the peace, good order, or security of the coastal State.
+26. Yes, they have the right of access to and from the sea through the territory of transit States.
+27. Navigation that is not prejudicial to the peace, good order, or security of the coastal State, such as not engaging in fishing or weapons exercises.
+28. Only when it is incidental to ordinary navigation or rendered necessary by force majeure.
+29. In cases of distress, force majeure, or to render assistance to persons or ships in danger.
+30. Weapons practice, spying, smuggling, fishing, pollution, and unauthorized research.
+31. No, it is considered a non-innocent activity.
+32. No, submarines must navigate on the surface and show their flag.
+33. Coastal States may regulate shipping routes, pollution control, and maritime traffic.
+34. Yes, if such routes have been designated and publicized.
+35. By agreement, or in the absence of agreement, by an equidistant line unless otherwise justified.
+36. A line equidistant from the nearest points on the baselines of the two States.
+37. Yes, if a State can prove a historic title recognized by international law.
+38. They should publish and deposit them with the UN Secretary-General.
+39. The Secretary-General of the United Nations.
+40. Weapons exercises, spying, propaganda, launching aircraft or military devices.
+41. Yes, it is not permitted as part of innocent passage.
+42. Yes, it may adopt laws to prevent and reduce marine pollution.
+43. Yes, coastal States may enforce such laws within their territorial sea.
+44. No, they require prior authorization from the coastal State.
+45. Because it determines the breadth and limits of maritime zones such as the territorial sea and exclusive economic zone.
+46. They can significantly increase the area classified as internal waters or territorial sea.
+47. The coastal State may take steps including ordering the ship to leave the territorial sea.
+48. By granting sovereignty to coastal States while ensuring navigational freedoms to others.
+49. It serves as the depository for charts and legal instruments and promotes dispute resolution.
+50. They pose new challenges for surveillance and enforcement of maritime laws and may require updated legal interpretations.

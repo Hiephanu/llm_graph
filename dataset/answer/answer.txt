@@ -1,3 +1,55 @@
-1. New York is where John Smith lives.
-2. The Eiffel Tower stands in France.
-3. Python is widely used for programming.
+1.The legal status of the territorial sea involves boundaries determined through state agreements, potentially leading to shared jurisdiction. These boundaries are defined by the median line and measured from established baselines.
+2.A coastal State exercises full sovereignty over its territorial sea, akin to its land and internal waters, extending to the seabed, subsoil, and airspace. This is subject to international law (likely UNCLOS) and the right of innocent passage, which the coastal State can regulate but not impede.
+3.Yes, the sovereignty of a coastal State extends to the airspace above its territorial sea.
+4.A State has the right to determine the breadth of its territorial sea. The knowledge graph does not specify a maximum breadth limit.
+5.The outer limit of the territorial sea is determined by measuring a specific distance seaward from the baseline.
+6.The territorial sea is measured from baselines.
+7.Straight baselines are a method used by a coastal state in determining its baseline. It is unclear if they completely replace a "normal" baseline or are used in specific circumstances.
+8.Straight baselines can be applied where a coastline is deeply indented, fringed with islands, or highly unstable, connecting appropriate coastal points without significant deviation from the general coastal direction.
+9.The knowledge graph does not contain information about how the presence of a delta affects the drawing of baselines.
+10.A key limitation of straight baselines is that they must follow the general direction of the coast and connect actual coastal points, avoiding arbitrary extension far out to sea.
+11.A low-tide elevation is a land feature near islands or the mainland, submerged at high tide but exposed and surrounded by water at low tide, measured from the territorial sea baseline.
+12.The knowledge graph does not directly answer if a low-tide elevation can generate its own territorial sea. Territorial seas are measured from baselines, and low-tide elevations are measured within them.
+13.Baselines around fringing reefs are determined according to Articles 7, 9, and 10 of the relevant international law or convention.
+14.The baseline across the mouth of a river is a line drawn across it.
+15.In the case of bays, baselines are determined according to the principles outlined in articles 7, 9, and 10 of the relevant legal framework.
+16.An indentation must be an indentation in the coastline with an entrance at the low-water marks and a curvature exceeding an unspecified threshold to be considered a bay.
+17.The knowledge graph does not contain information about the maximum closing line allowed across the mouth of a bay.
+18."Historic bays" appear to be a government-related concept. The knowledge graph does not define them or specify if they are treated differently legally.
+19.The knowledge graph does not determine whether offshore installations can be considered part of the baseline.
+20.The knowledge graph does not contain information about the specific legal status of roadsteads under international law.
+21."Internal waters" appears to be a term or concept related to the responsibilities or scope of the "Government."
+22.Yes, waters on the landward side of the baseline are considered internal waters.
+23.Foreign ships do not have a general right of innocent passage in internal waters.
+24.The knowledge graph does not offer a specific answer to what happens when straight baselines enclose areas not previously considered internal waters.
+25.The right of innocent passage is a governmental right allowing passage through a nation's territorial sea and enclosing internal waters, as defined in the Convention.
+26.The knowledge graph does not address whether land-locked states have the right of innocent passage.
+27.The knowledge graph does not provide a list of specific activities that constitute "innocent passage."
+28.The knowledge graph does not state whether a ship is allowed to stop or anchor in the territorial sea.
+29.Stopping and anchoring are permitted when required due to distress, unavoidable circumstances like force majeure, or as a normal part of navigating a vessel.
+30.The coastal State can enforce its laws regarding sanitation, immigration, fiscal matters, and customs, and violating these could be considered prejudicial. The coastal State regulates innocent passage, so breaches could also be seen as prejudicial to peace and security.
+31.The knowledge graph does not answer whether fishing is considered part of innocent passage.
+32.The knowledge graph does not address whether submarines are allowed to navigate submerged within a nation's territorial sea.
+33.The knowledge graph does not answer what coastal States are allowed to regulate regarding innocent passage.
+34.Yes, a coastal State can require ships to use designated sea lanes.
+35.The knowledge graph does not contain information on how the territorial sea boundary is determined between adjacent states.
+36.The median line in maritime delimitation is a line equidistant from the baselines of the states involved.
+37.The knowledge graph contains information about "historic title" and its relation to "Government" but does not state if it can override the median line principle.
+38.States should maintain, update, and share their charts and coordinates with relevant international bodies and neighboring coastal States to ensure clear and mutually understood boundaries.
+39.These charts should be submitted to the Government.
+40.The knowledge graph does not specify what military activities are forbidden during innocent passage.
+41.The knowledge graph does not definitively answer whether collecting intelligence during passage is illegal.
+42.The knowledge graph does not directly answer whether a State can regulate environmental protection within its territorial sea.
+43.The knowledge graph does not answer whether customs or immigration laws affect passage rights.
+44.The knowledge graph does not address whether survey or research activities are permitted during innocent passage.
+45.The knowledge graph does not contain information on why the concept of baseline is so important in maritime law.
+46.Straight baselines define the outer limit of internal waters, and the territorial sea is measured seaward from them, thus directly influencing the extent and shape of these zones.
+47.The knowledge graph does not explicitly detail the consequences of a ship violating innocent passage.
+48.UNCLOS balances the rights of coastal States and foreign ships by guaranteeing foreign ships the right of innocent passage through their territorial waters.
+49.The knowledge graph does not provide information about the United Nations' role in maritime boundary declarations.
+50.The knowledge graph does not contain information about the specific impact of technological advances like submarines and drones on the enforcement of UNCLOS provisions.
+
+
+
+
+
